@@ -1,16 +1,13 @@
-## Hi there 👋
+Senhoras e Senhores, 🇧🇷
 
-<!--
-**Kaaue8/Kaaue8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Kaue, tenho atualmente 21 anos e sou um amante de Tecnologia desde pequeno. Sou formado em Análise e Desenvolvimento de Sistemas, e aqui você ira encontrar um pouquinho da bagunça, criatividade, tecnologia e muitas das minhas aventuras.
 
-Here are some ideas to get you started:
+Sejam bem-vindos ao "Incrível Mundo de Kaue!" 😎👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ladys and Gentlemen, 🇺🇸
+
+Hello, my name is Kaue, I am currently 21 years old and have been a technology lover since I was a child. I have a degree in Systems Analysis and Development, and here you will find a little bit of mess, creativity, technology, and many of my adventures.
+
+Welcome to “The Amazing World of Kaue!” 😎👾
