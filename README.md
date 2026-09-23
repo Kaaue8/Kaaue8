@@ -1,3 +1,12 @@
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   >_              KA UÊ  REIS              < / >         │
+│                                                           │
+│       [terminal]       [cidade neon]       [PC]           │
+│                                                           │
+│             "Welcome to my world of tech"                │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 Senhoras e Senhores, 🇧🇷
 
 Olá! Me chamo Kaue, sou um amante de Tecnologia desde pequeno. 
