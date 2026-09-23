@@ -1,6 +1,7 @@
 Senhoras e Senhores, 🇧🇷
 
-Olá, me chamo Kaue, tenho atualmente 21 anos e sou um amante de Tecnologia desde pequeno. Sou formado em Análise e Desenvolvimento de Sistemas, e aqui você ira encontrar um pouquinho da bagunça, criatividade, tecnologia e muitas das minhas aventuras.
+Olá! Me chamo Kaue, sou um amante de Tecnologia desde pequeno. 
+Sou formado em Análise e Desenvolvimento de Sistemas, e gosto de aprender um pouco de tudo que envolve tecnologia. Por aqui você vai encontrar projetos, estudos, experimentos, algumas ideias que deram certo, outras que definitivamente não deram 😂 e muitas das minhas aventuras pelo mundo da TI.
 
 Sejam bem-vindos ao "Incrível Mundo de Kaue!" 😎👾
 
@@ -8,6 +9,7 @@ Sejam bem-vindos ao "Incrível Mundo de Kaue!" 😎👾
 
 Ladys and Gentlemen, 🇺🇸
 
-Hello, my name is Kaue, I am currently 21 years old and have been a technology lover since I was a child. I have a degree in Systems Analysis and Development, and here you will find a little bit of mess, creativity, technology, and many of my adventures.
+Hello! My name is Kauê, and I've been passionate about technology since I was a kid.
+I'm a graduate in Systems Analysis and Development, and I enjoy learning about pretty much everything related to technology. Here you'll find projects, studies, experiments, ideas that worked, others that definitely didn't 😂, and many of my adventures through the world of IT.
 
 Welcome to “The Amazing World of Kaue!” 😎👾
