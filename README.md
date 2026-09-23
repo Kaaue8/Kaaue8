@@ -1,12 +1,4 @@
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│   >_              KA UÊ  REIS              < / >         │
-│                                                           │
-│       [terminal]       [cidade neon]       [PC]           │
-│                                                           │
-│             "Welcome to my world of tech"                │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/77964309-30c8-489a-b874-0968c90c9d99" />
 Senhoras e Senhores, 🇧🇷
 
 Olá! Me chamo Kaue, sou um amante de Tecnologia desde pequeno. 
