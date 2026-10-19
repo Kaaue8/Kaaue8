@@ -25,7 +25,7 @@
 
 Olá! Me chamo Kauê, sou formado em Análise e Desenvolvimento de Sistemas e gosto de explorar tudo o que envolve tecnologia.
 
-Gosto de aprender, experimentar ideias e descobrir como as coisas funcionam. Por aqui, compartilho um pouco do meu universo tecnológico, dos meus aprendizados e das minhas aventuras pelo mundo da programação.
+Gosto de aprender, experimentar ideias e descobrir como as coisas funcionam. Por aqui, compartilho um pouco do meu universo tecnológico, dos meus aprendizados e das minhas aventuras pelo mundo da tecnologia.
 
 Nem tudo funciona de primeira — e, às vezes, o erro acaba ensinando mais do que o acerto. 😅
 
